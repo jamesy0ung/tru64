@@ -1,3 +1,6 @@
+# Precompiled
+* GCC 4.4.7 built for alphaev67-dec-osf5.1b (https://github.com/jamesy0ung/tru64/releases/download/Files/gcc.tar)
+
 # Prerequisites
 * Compaq C Compiler (http://osarchive.org/os/osf1-tru64/Development/Developers%27%20toolkit%20for%20Tru64%20UNIX/Compaq%20C%20V6.5-303.tar.lz)
 
