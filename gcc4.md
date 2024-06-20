@@ -3,6 +3,7 @@
 
 # Prerequisites
 * Compaq C Compiler (http://osarchive.org/os/osf1-tru64/Development/Developers%27%20toolkit%20for%20Tru64%20UNIX/Compaq%20C%20V6.5-303.tar.lz)
+* Compaq C Compiler (without lzip) (https://github.com/jamesy0ung/tru64/releases/download/Files/Compaq.C.V6.5-303.tar)
 
 ## License Compaq C Compiler
 
